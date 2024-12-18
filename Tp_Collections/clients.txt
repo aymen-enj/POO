@@ -1,0 +1,2 @@
+Client ( CodeClient = C001 , NomClient = Client1 , AdrClient= Adresse1 , TelClient = 0600000000 , ListeCommandes = [Commande( NumCommand = 1, DateCommande = Wed Dec 18 19:47:13 WEST 2024 , NomFournisseur = FournisseurA)])
+Client ( CodeClient = C002 , NomClient = Client2 , AdrClient= Adresse2 , TelClient = 0600000001 , ListeCommandes = [Commande( NumCommand = 2, DateCommande = Wed Dec 18 19:47:13 WEST 2024 , NomFournisseur = FournisseurB)])ClientFidel ( CodeFidelite = F001, TauxReduction = 10.5)
